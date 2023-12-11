@@ -10,6 +10,23 @@
     <title>Bio</title>
 </head>
 <body>
+  <style>
+    /* Adiciona o efeito de flutuação à imagem */
+    .profile-picture {
+      animation: floatAnimation 3s infinite ease-in-out;
+    }
+
+    /* Define a animação de flutuação */
+    @keyframes floatAnimation {
+      0%, 100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-20px);
+      }
+    }
+  </style>
+
 
 <div class="profiledata">
     <div class="profile-name"> Hello, I'm</div>
