@@ -177,7 +177,7 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
   text-align: center;
   margin-top: 20px;
   padding: 20px;
-  background: green  /* fallback for old browsers */
+  background: green;  /* fallback for old browsers */
 
   width: 290px;
   display: block;
