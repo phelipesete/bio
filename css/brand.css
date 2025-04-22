@@ -19,39 +19,7 @@
 
 
 
-/* --------------YOUTUBE--------------------------------------- */
 
-.links-youtube{
-  text-align: center;
-  margin-top: 20px;
-  padding: 20px;
-  border:  solid white;
-  border-width: 0.5px;
-  width: 290px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 8px;
-  font-size: 15px;
-}
-
-.links-youtube:hover{
-  text-align: center;
-  margin-top: 20px;
-  padding: 20px;
-  background: #ED213A;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #93291E, #ED213A);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #93291E, #ED213A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-  width: 290px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 8px;
-  font-size: 15px;
-  color: white;
-}
-/* --------------YOUTUBE--------------------------------------- */
 
 
 /* --------------GITHUB--------------------------------------- */
