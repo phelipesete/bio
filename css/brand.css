@@ -90,9 +90,9 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
 /* --------------TWITTER--------------------------------------- */
 
 
-/* --------------LIN--------------------------------------- */
+/* --------------GITHUB--------------------------------------- */
 
-.links-linkedin{
+.links-github{
   text-align: center;
   margin-top: 20px;
   padding: 20px;
@@ -106,7 +106,7 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
   font-size: 15px;
 }
 
-.links-linkedin:hover{
+.links-github:hover{
   text-align: center;
   margin-top: 20px;
   padding: 20px;
@@ -120,7 +120,7 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
   font-size: 15px;
   color: white;
 }
-/* --------------LIN--------------------------------------- */
+/* --------------GITHUB--------------------------------------- */
 
 
 
