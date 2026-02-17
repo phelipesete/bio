@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=theappwizard&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=ffffff&bg_color=000000"/></td>
+    <td valign="top"><img src="https://github.com/phelipesete/img/issues/12#issue-2038414800"/></td>
   </tr>
 </table>
 
